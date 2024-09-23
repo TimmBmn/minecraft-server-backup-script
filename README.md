@@ -9,6 +9,6 @@ This Script takes advantage of this and uses it to download and zip your server 
 
 ## Requirements
 1. Linux (this script is written for linux)
-2. sshpass (use your package manager duh)
+2. sshpass (use your package manager duh)  
 ```sudo apt-get install sshpass```  
 
