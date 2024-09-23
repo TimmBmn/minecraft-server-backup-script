@@ -8,9 +8,7 @@ This Script takes advantage of this and uses it to download and zip your server 
 3. (optional) Put this script in a cron job to create regular backups (backups will have to be deleted manually for now)
 
 ## Requirements
-### Linux
-this script is written for linux
+1. Linux (this script is written for linux)
+2. sshpass (use your package manager duh)
+```sudo apt-get install sshpass```  
 
-### sshpass
-```sudo apt-get install sshpass```
-(use your package manager duh)
