@@ -1,4 +1,4 @@
-# Minecraft Server Backups
+# Minecraft Server Backup Script
 If you are renting a minecraft server there is a good chance it has a sftp interface.
 This Script takes advantage of this and uses it to download and zip your server to then backup it somewhere
 
